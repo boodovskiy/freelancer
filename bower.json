@@ -1,0 +1,29 @@
+{
+  "name": "freelancer",
+  "homepage": "https://github.com/boodovskiy/freelancer",
+  "authors": [
+    "Budovsky Alexandr <dzak1987@mail.ru>"
+  ],
+  "description": "Freelancer Portfolio",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "freelancer",
+    "theme",
+    "web"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "install" : {
+    "path" : {
+      "css": "css"
+	}
+  }
+}
