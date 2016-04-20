@@ -6,6 +6,7 @@ require 'sassy-buttons'
 require 'breakpoint'
 require 'compass-css-arrow'
 require 'rgbapng'
+require 'bootstrap-sass'
 
 # Require any additional compass plugins here.
 
